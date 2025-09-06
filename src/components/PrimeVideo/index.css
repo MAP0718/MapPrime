@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prime {
+  width: 100%;
+  height: 40%;
+  margin: 0px;
+}
+
+.amazon-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-container {
+  flex-grow: 1;
+  width: 96%;
+  padding: 16px;
+  color: #ffffff;
+  margin: auto;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.popup-content {
+  background-color: #ffffff;
+  height: 420px;
+  width: 800px;
+  border-radius: 15px;
+}
+
+.react-player {
+  width: 560px;
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+.closeBtn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
